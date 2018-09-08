@@ -16,7 +16,7 @@ namespace TwilightImperium4Pregame
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new TwilightImperium4Pregame());
         }
     }
 }

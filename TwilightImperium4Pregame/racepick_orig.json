@@ -1,0 +1,107 @@
+﻿{
+  "RaceList": [
+    {
+      "Id": 0,
+      "Name": "<b>Barbarian Goblins</b>",
+      "Description": "aa",
+      "RaceGroup": "Starter"
+    },
+    {
+      "Id": 1,
+      "Name": "<b>Mining Molemen</b>",
+      "Description": "bb",
+      "RaceGroup": "Starter"
+    },
+    {
+      "Id": 2,
+      "Name": "<b>Science Cyborgs</b>",
+      "Description": "cc",
+      "RaceGroup": "Starter"
+    },
+    {
+      "Id": 3,
+      "Name": "<b>Peace Turtles</b>",
+      "Description": "dd",
+      "RaceGroup": "Starter"
+    },
+    {
+      "Id": 4,
+      "Name": "<b>Plant Breeders</b>",
+      "Description": "ee",
+      "RaceGroup": "Starter"
+    },
+    {
+      "Id": 5,
+      "Name": "<b>Bad Robot Race</b>",
+      "Description": "ff",
+      "RaceGroup": "Starter"
+    },
+
+    {
+      "Id": 6,
+      "Name": "<b>Star Men</b>",
+      "Description": "gg",
+      "RaceGroup": "Standard"
+    },
+    {
+      "Id": 7,
+      "Name": "<b>Royal Dandies</b>",
+      "Description": "hh",
+      "RaceGroup": "Standard"
+    },
+    {
+      "Id": 8,
+      "Name": "<b>Alien Insects</b>",
+      "Description": "ii",
+      "RaceGroup": "Standard"
+    },
+    {
+      "Id": 9,
+      "Name": "<b>Space Ghosts</b>",
+      "Description": "jj",
+      "RaceGroup": "Standard"
+    },
+    {
+      "Id": 10,
+      "Name": "<b>Space Pirates</b>",
+      "Description": "kk",
+      "RaceGroup": "Standard"
+    },
+    {
+      "Id": 11,
+      "Name": "<b>Blue Men</b>",
+      "Description": "ll",
+      "RaceGroup": "Standard"
+    },
+    {
+      "Id": 12,
+      "Name": "<b>Space Lions</b>",
+      "Description": "mm",
+      "RaceGroup": "Standard"
+    },
+    {
+      "Id": 13,
+      "Name": "<b>Kamikaze Monks</b>",
+      "Description": "nn",
+      "RaceGroup": "Standard"
+    },
+    {
+      "Id": 14,
+      "Name": "<b>Space Gorgons</b>",
+      "Description": "oo",
+      "RaceGroup": "Standard"
+    },
+    {
+      "Id": 15,
+      "Name": "<b>Good Robot Race</b>",
+      "Description": "pp",
+      "RaceGroup": "Standard"
+    },
+    {
+      "Id": 16,
+      "Name": "<b>Space People</b>",
+      "Description": "qq",
+      "RaceGroup": "Standard"
+    }
+  ]
+}
